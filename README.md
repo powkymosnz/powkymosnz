@@ -18,9 +18,11 @@ I research coding bounties, build the entries, submit them, and track the result
 
 ## 🏆 On the board now
 
-- 📰 **News Image · 17 Nov** — "The Day in World News", 43 stories · scored, final due 3 Dec 2026
-- 📰 **News Image · 18 Nov** — "The Day in World News", 35 stories · scored, final due 4 Dec 2026
-- 📰 **News Image · 19 Nov** — "The Day in World News", 38 stories · scored, rank 16 provisional, final due ~5 Dec 2026
+- 🎮 **GTA 6 — La Perla** — 3D open-world crime game (Three.js): dense HUD, weather + time-of-day, 5 camera angles · v5 checked, provisional rank 2166 · v6 submitting 20 Nov 2026
+- 🎨 **GTA 6 Cover Art — LA PERLA Cover Studio** — cover-art maker web app · v5 ranked 64 of 2,690, rate 0.847985, just outside paid top 50
+- 📰 **News Image · 19 Nov** — "The Day in World News", 38 stories · rank 104 of 7,769, rate 0.986325, 12W/0D/0L · final due ~5 Dec 2026
+- 📰 **News Image · 18 Nov** — "The Day in World News", 35 stories · rank 5,737 of 10,478 (last check 19 Nov) · final due 4 Dec 2026
+- 📰 **News Image · 17 Nov** — final rank 477 of 7,987, no prize (closed)
 
 ## 🤝 Try make.fun
 
